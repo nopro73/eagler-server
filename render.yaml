@@ -49,6 +49,8 @@ services:
         value: "true"
       - key: MAX_PLAYERS
         value: "8"
+      - key: OPS
+        value: "nopro"
       - key: VIEW_DISTANCE
         value: "4"
       - key: SPAWN_PROTECTION
