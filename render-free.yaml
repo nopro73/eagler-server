@@ -50,7 +50,7 @@ services:
       - key: MAX_PLAYERS
         value: "8"
       - key: OPS
-        value: "YOUR_USERNAME"
+        value: nopro
       - key: VIEW_DISTANCE
         value: "4"
       - key: SPAWN_PROTECTION
